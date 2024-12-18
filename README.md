@@ -5,6 +5,7 @@
 * Yesha  [KU2407U391]
 * Akshit [KU2407U252]
 * Dev    [Ku2407U297]
+  
 #Objective of the Project
 The objective of this project is to analyze water quality using key parameters like pH, Turbidity, and Dissolved Oxygen (DO). The project aims to classify water quality into categories such as "Good," "Moderate," or "Polluted" using rule-based logic and visualize the distributions and relationships between features.
 
